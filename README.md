@@ -6,7 +6,7 @@
 
 ---
 
-## 📋 Descrição
+## Descrição
 
 Este repositório contém a resolução da lista de exercícios avaliativa da disciplina, com a implementação de três modelos preditivos em R:
 
@@ -24,7 +24,7 @@ Este repositório contém a resolução da lista de exercícios avaliativa da di
 
 ---
 
-## 📦 Pacotes necessários
+## Pacotes necessários
 
 Os pacotes são instalados automaticamente ao rodar o script. São eles:
 
@@ -58,7 +58,7 @@ nnet
 
 ---
 
-## 🔍 Resumo dos modelos
+## Resumo dos modelos
 
 ### Exercício 1 — Árvore de Regressão (diamonds)
 - Método: `rpart` com `method = "anova"`
